@@ -48,33 +48,6 @@ Atualmente atuo com desenvolvimento de sistemas corporativos, integração de AP
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge\&logo=docker\&logoColor=white)
 ![Prisma](https://img.shields.io/badge/Prisma-2D3748?style=for-the-badge\&logo=prisma\&logoColor=white)
 
----
-
-## ⭐ Projeto em Destaque
-
-### NutriBodyAI
-
-Plataforma inteligente de análise nutricional desenvolvida como Trabalho de Conclusão de Curso.
-
-### Principais funcionalidades
-
-* 🤖 Análise nutricional utilizando Inteligência Artificial
-* 📝 Processamento de Linguagem Natural (PLN)
-* 📊 Dashboard de acompanhamento nutricional
-* 🔐 Sistema de autenticação com JWT
-* 🥗 Integração com a tabela TACO
-* 📈 Cálculo automático de calorias e macronutrientes
-
-### Stack
-
-```txt
-React • TypeScript • Fastify • PostgreSQL • Prisma
-Docker • JWT • Ollama • Groq API • TailwindCSS
-```
-
-🔗 Projeto: https://nutri-body.vercel.app/
-
----
 
 ## 📊 Estatísticas GitHub
 
@@ -82,13 +55,9 @@ Docker • JWT • Ollama • Groq API • TailwindCSS
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=PedroLuizPG\&layout=compact\&theme=tokyonight)
 
----
-
-## 🔥 Streak
-
 ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=PedroLuizPG\&theme=tokyonight)
 
----
+
 
 ## 📫 Contato
 
