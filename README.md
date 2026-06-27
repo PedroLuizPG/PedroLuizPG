@@ -49,16 +49,6 @@ Atualmente atuo com desenvolvimento de sistemas corporativos, integração de AP
 ![Prisma](https://img.shields.io/badge/Prisma-2D3748?style=for-the-badge\&logo=prisma\&logoColor=white)
 
 
-## 📊 Estatísticas GitHub
-
-![Pedro's GitHub stats](https://github-readme-stats.vercel.app/api?username=PedroLuizPG\&show_icons=true\&theme=tokyonight)
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=PedroLuizPG\&layout=compact\&theme=tokyonight)
-
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=PedroLuizPG\&theme=tokyonight)
-
-
-
 ## 📫 Contato
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Pedro%20Luiz-blue?style=for-the-badge\&logo=linkedin)](https://linkedin.com/in/pedro-gois-922071235)
