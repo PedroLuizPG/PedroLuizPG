@@ -57,7 +57,5 @@ Atualmente atuo com desenvolvimento de sistemas corporativos, integração de AP
 
 [![GitHub](https://img.shields.io/badge/GitHub-PedroLuizPG-black?style=for-the-badge\&logo=github)](https://github.com/PedroLuizPG)
 
----
 
-> 🚀 Transformando ideias em soluções através da tecnologia.
 
